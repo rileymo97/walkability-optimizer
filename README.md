@@ -8,3 +8,4 @@ Data sources
 - Grocery store location info pulled from the Chicago Data Portal API
 - Parks location info pulled from the Chicago Data Portal API
 - Schools location info pulled from the Chicago Data Portal API
+- Census TIGER site for census tract shapefiles
